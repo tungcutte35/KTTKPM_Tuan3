@@ -44,6 +44,10 @@ Analysis-tool
 
 ![analysis-tool](https://github.com/tungcutte35/KTTKPM_Tuan3/assets/90129081/8ebf839a-16b4-42fe-868b-0ee03a0951e4)
 
+Demo-connect
+
+![demo-connect](https://github.com/tungcutte35/KTTKPM_Tuan3/assets/90129081/52cc2f7f-c25d-45e4-b3d8-b8e6de738a78)
+
 
 
 
